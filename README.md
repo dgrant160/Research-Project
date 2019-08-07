@@ -26,8 +26,19 @@
 <h3></h3>
 <p></p>
 
-<h3></h3>
-<p></p>
+<h3>References</h3>
+<p>https://www.lifelock.com/learn-identity-theft-resources-facts-you-have-to-know-about-identity-theft.html
+
+https://www.thebalance.com/a-brief-history-of-identity-theft-1947514
+
+https://www.experian.com/blogs/ask-experian/what-is-identity-theft/
+
+https://searchsecurity.techtarget.com/definition/identity-theft
+
+https://www.consumerreports.org/cro/news/2015/01/10-steps-to-fight-identity-theft/index.htm
+
+https://archives.fbi.gov/archives/news/stories/2004/october/uncoveridt_101504
+</p>
 
 
 </body>
