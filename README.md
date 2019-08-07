@@ -23,21 +23,18 @@
   our personal information.</p>
 
 <h3>How to protect yourself from identity theft</h3>
-<p>There are many different things you can do to prevent having your identity stolen. 
-One thing you can do is to frequently change your passwords, emails, and usernames. 
-This will make it harder for those thieves to get into your accounts and steal from you. 
-Also don’t reuse the same password because the hackers could get access to multiple accounts. 
-Another thing you can do is guard you nonfinancial information, such as your email, phone number, and home address. 
-If these crooks get your information they could trick you into giving them your account numbers. 
-This is called phishing, an example of that is the thief could send a real looking 
-email from the bank asking you to sign into your account, and then they steal that information.</p>
+<p>There are many different things you can do to prevent having your identity stolen. One thing you can do is to frequently change your passwords, emails, and usernames. This will make it harder for those thieves to get into your accounts and steal from you. Also don’t reuse the same password because the hackers could get access to multiple accounts. Another thing you can do is guard you nonfinancial information, such as your email, phone number, and home address. If these crooks get your information they could trick you into giving them your account numbers. This is called phishing, an example of that is the thief could send a real looking email from the bank asking you to sign into your account, and then they steal that information.</p>
 
 <h3>When identity theft started</h3>
-<p>Identity theft became more of a threat in 1965 with the increase of illegal immigrants and the Immigration and Nationality Act.
-But with the internet more tech oriented criminals have been taking advantage of stealing people's identity for financial gain.</p>
+<p>Identity theft became more of a threat in 1965 with the increase of illegal immigrants and the Immigration and Nationality Act.But with the internet more tech oriented criminals have been taking advantage of stealing people's identity for financial gain.</p>
 
-<h3></h3>
-<p><p>
+<h3>Four facts</h3>
+<p>
+1.Thieves can buy and sell information about people on the dark web.
+2.Around 7 million people were affected by identity theft in 2017.
+3.Identity theft is committed around every 2 seconds.
+4.Social Security numbers are the worst thing to fall into and identity thieves hands because they are difficult to replace.
+<p>
 
 
 
