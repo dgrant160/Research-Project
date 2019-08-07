@@ -28,8 +28,14 @@ If these crooks get your information they could trick you into giving them your 
 This is called phishing, an example of that is the thief could send a real looking 
 email from the bank asking you to sign into your account, and then they steal that information.</p>
 
+<h3>When identity theft started</h3>
+<p>Identity theft became more of a threat in 1965 with the increase of illegal immigrants and the Immigration and Nationality Act.
+But with the internet more tech oriented criminals have been taking advantage of stealing people's identity for financial gain.</p>
+
 <h3></h3>
-<p></p>
+<p><p>
+
+
 
 <h3></h3>
 <p></p>
